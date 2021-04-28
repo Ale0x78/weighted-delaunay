@@ -10,7 +10,7 @@ A packaged used to calculate the weighted delaunay triangulation in N-dimensions
 ### Returns
 A weighted Delaunay datastructure
 
-## tiangulation()
+## triangulation()
 ### Returns
 A list of the simplexes for the triangulation
 
