@@ -26,4 +26,4 @@ jobs:
       - name: Install and run unit tests
         run: |
           pip3 install .
-          python3 weightedDelaunay/test/testWeightedDelaunay.py
+          python3 test/testWeightedDelaunay.py
