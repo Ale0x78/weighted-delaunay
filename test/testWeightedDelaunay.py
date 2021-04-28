@@ -1,5 +1,5 @@
 import unittest
-from src.weightedDelaunay import WeightedDelaunay
+from weightedDelaunay import WeightedDelaunay
 import numpy as np
 
 
