@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="weightedDelaunay", # Replace with your own username
-    version="0.0.3",
+    version="1.0.0",
     author="Mark Klose, Bansi Chhatrala, Alex Nahapetyan",
     author_email="mwklose@ncsu.edu, bschhatr@ncsu.edu, anahape@ncsu.edu",
     description="A packaged used to calculate the weighted delaunay triangulation in N-dimensions",
