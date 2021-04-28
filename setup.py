@@ -11,9 +11,9 @@ setuptools.setup(
     description="A packaged used to calculate the weighted delaunay triangulation in N-dimensions",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Ale0x78/weighted-delaunay",
+    url="https://github.com/Ale0x78/weightedDelaunay",
     project_urls={
-        "Bug Tracker": "https://github.com/Ale0x78/weighted-delaunay/issues",
+        "Bug Tracker": "https://github.com/Ale0x78/weightedDelaunay/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
