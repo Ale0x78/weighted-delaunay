@@ -9,7 +9,7 @@ class WeightedDelaunay:
         self.complete = False
         self.tri = None
 
-    def tiangulation(self):
+    def triangulation(self):
         if not self.complete:
             num, dim = np.shape(self.points)
             lifted = np.zeros((num, dim + 1))
